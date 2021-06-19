@@ -1,0 +1,42 @@
+li{
+  display: inline;
+  padding-left: 200px;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  width: 950px;
+  font-family: monospace;
+}
+
+h1{
+  font-size: 50px;
+  color: Black;
+  text-align: center;
+  font-weight: bolder;
+  color: white;
+  font-family: 'Dela Gothic One', cursive;
+}
+ul{
+  padding: 10px;
+  width: 1500px;
+  border-top : 2px solid ;
+  border-bottom: 2px solid;
+  background-color: white;
+  margin: 0px auto 0px auto;
+  margin-top: 400px;
+}
+a:hover{
+  color : red;
+  text-decoration: none;
+}
+a{
+  text-decoration: none;
+  color: black;
+  font-family: fantasy;
+}
+body{
+  background-image: url("MIT2.jpg");
+  background-repeat: no-repeat;
+}
